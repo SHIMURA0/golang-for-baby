@@ -1,4 +1,4 @@
-# GoLang-for-baby
+# Golang-for-baby
 
 ## To learn Golang, we begin with the syntax of writing hello world.
 
@@ -21,5 +21,7 @@ Every go script begins with the
 ```go
 package ${filename}
 ```
-where ${filename} is the name of the go script. In this way, a go project is structured as a collection of packages
+where ${filename} is the name of the go script. In this way, a go project is structured as a collection of packages。
+
+this is $\mathscr{A}$
 
